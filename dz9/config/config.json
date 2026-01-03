@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Kolomashi112",
+    "database": "dz9_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
